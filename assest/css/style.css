@@ -619,7 +619,7 @@ html {
   position: absolute;
   background-color: transparent;
   border-radius: 100%;
-  border: 2px solid #fff;
+    border: 2px solid rgba(230, 8, 8, 0.75);
   -webkit-animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   transition: all .5s;
